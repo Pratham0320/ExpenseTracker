@@ -1,0 +1,2 @@
+cafe,150.0,fun
+party,500.0,fun
